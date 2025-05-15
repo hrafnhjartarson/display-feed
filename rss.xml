@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Employee Display Feed</title>
+    <link>https://hrafnhjartarson.github.io/display-feed/</link>
+    <description>Latest content for employee screens</description>
+
+    <item>
+      <title>Welcome</title>
+      <description><![CDATA[
+        <h2>Welcome to the Display!</h2>
+        <p>Thanks for checking in. More updates soon.</p>
+        <img src="https://placekitten.com/600/300" />
+      ]]></description>
+      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
+Add initial RSS feed
