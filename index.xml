@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="style.xsl"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
     <title>Employee Display Feed</title>
     <link>https://hrafnhjartarson.github.io/display-feed/</link>
+    <atom:link href="https://hrafnhjartarson.github.io/display-feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest content for employee screens</description>
 
     <item>
       <title>First update</title>
+      <guid>https://hrafnhjartarson.github.io/display-feed/first-update</guid>
       <description><![CDATA[
-<h2>Welcome!</h2><p>Glad you're here.</p>
-<img src="https://img.freepik.com/free-vector/colorful-welcome-composition-with-origami-style_23-2147919827.jpg?semt=ais_hybrid&amp;  w=740">
+        <h2>Welcome!</h2><p>Glad you're here.</p>
+        <img src="https://img.freepik.com/free-vector/colorful-welcome-composition-with-origami-style_23-2147919827.jpg?semt=ais_hybrid&amp;w=740">
       ]]></description>
-      <pubDate>Thu May 15 2025 13:27:00 GMT+0000 (Greenwich Mean Time)</pubDate>
+      <pubDate>Thu, 15 May 2025 13:27:00 +0000</pubDate>
     </item>
+
     <item>
       <title>Weekly Update</title>
+      <guid>https://hrafnhjartarson.github.io/display-feed/weekly-update</guid>
       <description><![CDATA[
-<p>Sales are up by 10%. Great work!</p>
-<img src="https://yourcdn.com/update.jpg">
+        <p>Sales are up by 10%. Great work!</p>
+        <img src="https://yourcdn.com/update.jpg">
       ]]></description>
-      <pubDate>Fri May 16 2025 08:00:00 GMT+0000 (Greenwich Mean Time)</pubDate>
+      <pubDate>Fri, 16 May 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
