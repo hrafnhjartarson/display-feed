@@ -16,6 +16,7 @@
         </style>
       </head>
       <body>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIi0dldOsrHYUZrwZ3bcnSYQ_xn-2fhjeUsg&s" style="max-height: 80px; margin-bottom: 20px;" alt="Logo"/>
         <h1><xsl:value-of select="title"/></h1>
         <xsl:for-each select="item">
           <div class="item">
