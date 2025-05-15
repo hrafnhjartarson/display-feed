@@ -44,7 +44,7 @@
       </head>
       <body>
         <!-- Logo at top -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png"
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIi0dldOsrHYUZrwZ3bcnSYQ_xn-2fhjeUsg&s"
              alt="Logo" class="logo" />
 
         <h1><xsl:value-of select="title"/></h1>
