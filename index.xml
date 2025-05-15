@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 <rss version="2.0">
   <channel>
     <title>Employee Display Feed</title>
@@ -7,12 +6,12 @@
     <description>Latest content for employee screens</description>
 
     <item>
-      <title>Welcome</title>
+      <title>Kaldv?k</title>
       <description><![CDATA[
 <h2>Welcome!</h2><p>Glad you're here.</p>
-<img src="https://placekitten.com/600/300">
+<img src="https://img.freepik.com/free-vector/colorful-welcome-composition-with-origami-style_23-2147919827.jpg?semt=ais_hybrid&w=740">
       ]]></description>
-      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+      <pubDate>Thu May 15 2025 13:27:00 GMT+0000 (Greenwich Mean Time)</pubDate>
     </item>
     <item>
       <title>Weekly Update</title>
@@ -20,7 +19,7 @@
 <p>Sales are up by 10%. Great work!</p>
 <img src="https://yourcdn.com/update.jpg">
       ]]></description>
-      <pubDate>Fri, 16 May 2025 08:00:00 +0000</pubDate>
+      <pubDate>Fri May 16 2025 08:00:00 GMT+0000 (Greenwich Mean Time)</pubDate>
     </item>
   </channel>
 </rss>
