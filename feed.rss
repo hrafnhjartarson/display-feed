@@ -17,5 +17,15 @@
       <pubDate>Thu, 15 May 2025 13:27:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>Kaldv?k information screen</title>
+      <guid>https://hrafnhjartarson.github.io/display-feed/item-2</guid>
+      <description><![CDATA[
+<h2>Welcome to Kaldv?k!</h2><p>We are glad that you are here.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIi0dldOsrHYUZrwZ3bcnSYQ_xn-2fhjeUsg&amp;amp;s">
+      ]]></description>
+      <pubDate>Thu, 15 May 2025 13:27:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
