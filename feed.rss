@@ -8,10 +8,10 @@
     <description>Latest content for employee screens</description>
 
     <item>
-      <title>New Employee</title>
+      <title>Welcome to Kaldvík!</title>
       <guid>https://hrafnhjartarson.github.io/display-feed/item-1</guid>
       <description><![CDATA[
-<h2>Welcome to Kaldvík!</h2><p>We are glad to welcome new hires to the Kaldvík team.</p>
+We are glad to welcome new hires to the Kaldvík team.
 <img src="https://sea.work/storage/761/conversions/kaldvik-display.jpg">
       ]]></description>
       <pubDate>Thu, 15 May 2025 21:32:00 +0000</pubDate>
@@ -21,7 +21,7 @@
       <title>Summer festival</title>
       <guid>https://hrafnhjartarson.github.io/display-feed/item-2</guid>
       <description><![CDATA[
-<h2>Burgers and sunshine!</h2><p>Friday the the 23rd of May there will be burgers and sunshine (hopefully) at all our offices.</p>
+<h2>Burgers and sunshine!</h2> <p>Friday the the 23rd of May there will be burgers and sunshine (hopefully) at all our offices.</p>
 <img src="https://sea.work/storage/761/conversions/kaldvik-display.jpg">
       ]]></description>
       <pubDate>Thu, 15 May 2025 13:27:00 +0000</pubDate>
@@ -31,7 +31,7 @@
       <title>Bi-monthly Meeting</title>
       <guid>https://hrafnhjartarson.github.io/display-feed/item-3</guid>
       <description><![CDATA[
-<h1>All of Kaldvík meeting.</h1><p>Tune in on Wednesday for our bi-monthly meeting.</p>
+Tune in on Wednesday for our bi-monthly meeting.
 <img src="https://sea.work/storage/761/conversions/kaldvik-display.jpg">
       ]]></description>
       <pubDate>Sat, 17 May 2025 15:27:00 +0000</pubDate>
@@ -41,7 +41,7 @@
       <title>Whole Foods</title>
       <guid>https://hrafnhjartarson.github.io/display-feed/item-4</guid>
       <description><![CDATA[
-<h2>Guests from Whole Foods</h2><p>We are pleased to welcome guests from Whole Foods in our offices and production facilities in the east of Iceland.</p>
+<h2>Guests from Whole Foods.</h2> <p>We are pleased to welcome guests from Whole Foods in our offices and production facilities in the east of Iceland.</p>
 <img src="https://sea.work/storage/761/conversions/kaldvik-display.jpg">
       ]]></description>
       <pubDate>Tue, 20 May 2025 09:05:00 +0000</pubDate>
